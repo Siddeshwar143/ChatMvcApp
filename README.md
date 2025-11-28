@@ -1,1 +1,1 @@
-# ChatMvcApp
+The Chat Application is a real-time messaging platform built using ASP.NET Core and SignalR. It allows users to send and receive messages instantly with page refresh, providing a seamless and interactive communication experience. The system supports Global chats, message history, user authentication.
